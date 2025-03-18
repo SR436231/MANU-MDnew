@@ -7,7 +7,7 @@
     "owner-verification":"danajxima@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {Manu-MD&sfFXyJ4T#MdZlUDjyab95AalKrMT8eW0lBp22RMs1KDDw_GOkOiA
         "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
         "value":"",
         "required": true
