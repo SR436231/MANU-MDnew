@@ -43,7 +43,75 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
+SESSION_ID:"{
+    "bot-name": "MANU-MD",
+    "description": "MANU-MD made for people on Sri Lanka & Other Countries...✨🇱🇰🌏❤",
+    "logo": "https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "manumd", "byimaxz"],
+    "documentation-link": "https://manul-ofc-web-tau.vercel.app/",
+    "owner-verification":"danajxima@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {"Manu-MD&sfFXyJ4T#MdZlUDjyab95AalKrMT8eW0lBp22RMs1KDDw_GOkOiA"
+        "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+}{
+    "bot-name": "MANU-MD",
+    "description": "MANU-MD made for people on Sri Lanka & Other Countries...✨🇱🇰🌏❤",
+    "logo": "https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "manumd", "byimaxz"],
+    "documentation-link": "https://manul-ofc-web-tau.vercel.app/",
+    "owner-verification":"danajxima@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {"Manu-MD&sfFXyJ4T#MdZlUDjyab95AalKrMT8eW0lBp22RMs1KDDw_GOkOiA"
+        "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+}{
+    "bot-name": "MANU-MD",
+    "description": "MANU-MD made for people on Sri Lanka & Other Countries...✨🇱🇰🌏❤",
+    "logo": "https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "manumd", "byimaxz"],
+    "documentation-link": "https://manul-ofc-web-tau.vercel.app/",
+    "owner-verification":"danajxima@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {"Manu-MD&sfFXyJ4T#MdZlUDjyab95AalKrMT8eW0lBp22RMs1KDDw_GOkOiA"
+        "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+}{
+    "bot-name": "MANU-MD",
+    "description": "MANU-MD made for people on Sri Lanka & Other Countries...✨🇱🇰🌏❤",
+    "logo": "https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "manumd", "byimaxz"],
+    "documentation-link": "https://manul-ofc-web-tau.vercel.app/",
+    "owner-verification":"danajxima@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {"Manu-MD&sfFXyJ4T#MdZlUDjyab95AalKrMT8eW0lBp22RMs1KDDw_GOkOiA"
+        "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+}
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 SUDO: process.env.SUDO === undefined ? '94742274855' : process.env.SUDO,
